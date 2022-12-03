@@ -1,0 +1,15 @@
+C:\1GB\C#\Dz_seminar3\task21\bin\Debug\net6.0\task21.exe
+C:\1GB\C#\Dz_seminar3\task21\bin\Debug\net6.0\task21.deps.json
+C:\1GB\C#\Dz_seminar3\task21\bin\Debug\net6.0\task21.runtimeconfig.json
+C:\1GB\C#\Dz_seminar3\task21\bin\Debug\net6.0\task21.dll
+C:\1GB\C#\Dz_seminar3\task21\bin\Debug\net6.0\task21.pdb
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\task21.csproj.AssemblyReference.cache
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\task21.AssemblyInfoInputs.cache
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\task21.AssemblyInfo.cs
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\task21.csproj.CoreCompileInputs.cache
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\task21.dll
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\refint\task21.dll
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\task21.pdb
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\task21.genruntimeconfig.cache
+C:\1GB\C#\Dz_seminar3\task21\obj\Debug\net6.0\ref\task21.dll
